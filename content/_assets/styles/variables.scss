@@ -53,7 +53,7 @@ $quire-entry-image-icons-color: $white;
 
 // Active link and table-row color
 // -----------------------------------------------------------------------------
-$quire-hover-color: $light-yellow;
+$quire-hover-color: $choco-yellow;
 
 // Print/PDF stylesheet
 // -----------------------------------------------------------------------------
@@ -98,7 +98,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-headings-font: $ibm-sans !default;
   $quire-footnotes-font: $noto-serif !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: $red !default;
+  $accent-color: $choco-blue !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
 }
@@ -121,7 +121,7 @@ $quire-navbar-text-color: null;
 } @else {
   // Normal Navbar (default)
   $quire-navbar-color: $white !default;
-  $quire-navbar-hover-color: darken($quire-navbar-color, 5%) !default;
+  $quire-navbar-hover-color: lighten($quire-navbar-color, 50%) !default;
   @if $theme == classic {
     $quire-navbar-text-color: lighten($off-black, 20%) !default;
   } @else {

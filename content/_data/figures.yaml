@@ -1,5 +1,159 @@
 figure_list:
 
+  - id: "castañeda-01"
+    src: figures/castaneda_Figura 1_EAP1477_MFC_B05_Doc31_DiazvsDiaz_IMG_033.jpg
+    label: "Figura 1"
+    caption: "Indagatoria de Polonia Díaz."
+    credit: "Fuente: 'Polonia Díaz contra su hermana…', ff. 14v."
+
+  - id: "castañeda-02"
+    src: figures/castaneda_Figura 2_EAP1477_MFC_B05_Doc31_DiazvsDiaz_IMG_034.jpg
+    label: "Figura 2"
+    caption: "Indagatoria de Polonia Díaz."
+    credit: "Fuente: 'Polonia Díaz contra su hermana…', ff. 15r."
+
+  - id: "castañeda-03"
+    src: figures/castaneda_Figura 3_EAP1477_MFC_B05_Doc31_DiazvsDiaz_IMG_020.jpg
+    label: "Figura 3"
+    caption: "Indagatoria de Jerónima Díaz."
+    credit: "Fuente: 'Polonia Díaz contra su hermana…', ff. 8r."
+
+  - id: "castañeda-04"
+    src: figures/castaneda_Figura 4_EAP1477_MFC_B05_Doc31_DiazvsDiaz_IMG_021.jpg
+    label: "Figura 4"
+    caption: "Indagatoria de Jerónima Díaz."
+    credit: "Fuente: 'Polonia Díaz contra su hermana…', ff. 8v."
+
+  - id: "castañeda-05"
+    src: figures/castaneda_Figura 5_EAP1477_MFC_B05_Doc31_DiazvsDiaz_IMG_078.jpg
+    label: "Figura 5"
+    caption: "Apelación de la sentencia por la pérdida de derechos políticos."
+    credit: "Fuente: 'Polonia Díaz contra su hermana…', f. 34r."
+
+  - id: "cuesta-01"
+    src: figures/cuesta_Figura 1_EAP1477_GHC_B09_Doc27_IMG_061.jpg
+    label: "Figura 1"
+    caption: "Huellas digitales del sindicado José Alcides Asprilla tomadas en la prisión de Istmina."
+    credit: "Fuente: 'La Hacienda Pública contra José Alcides Asprilla R…', f. 67r."
+
+  - id: "cuesta-02"
+    src: figures/cuesta_Figura 2_Texto Perea Cuesta.png
+    label: "Figura 2"
+    caption: "Abraham Rumié."
+    credit: "Fuente: Archivo de la Familia Cariuty Ferrer."
+
+  - id: "cuesta-03"
+    src: figures/cuesta_Figura 3_Texto Perea Cuesta.png
+    label: "Figura 3"
+    caption: "Local comercial de un sirio-libanés."
+    credit: "Fuente: Archivo Fotográfico Afrocolombiano. Chocó Memoria Visual."
+
+  - id: "ibargüen-01"
+    src: figures/ibargüen_Figura 1_EAP1477_MFC_B03_Doc06_ValenciavsLemus_IMG_003.jpg
+    label: "Figura 1"
+    caption: "Portada de la causa contra Manuel Lemus y Natividad Mosquera por amancebamiento."
+    credit: "Fuente: 'Pascual Valencia contra Manuel Lemus…', portada."
+
+  - id: "ibargüen-02"
+    src: figures/ibargüen_Figura 2_EAP1477_MFC_B03_Doc06_ValenciavsLemus_IMG_065.jpg
+    label: "Figura 2"
+    caption: "Argumentos del abogado Joaquín de Caicedo."
+    credit: "Fuente: 'Pascual Valencia contra Manuel Lemus…', f. 30r."
+
+  - id: "ibargüen-03"
+    src: figures/ibargüen_Figura 3_EAP1477_MFC_B03_Doc06_ValenciavsLemus_IMG_078.jpg
+    label: "Figura 3"
+    caption: "Sentencia del Tribunal Superior del Distrito Judicial de Cali."
+    credit: "Fuente: 'Pascual Valencia contra Manuel Lemus…', f. 36v."
+
+  - id: "rentería-01"
+    src: figures/rentería_Figura 1_EAP1477_MFC_B01_Doc30_Flores_IMG_017.jpg
+    printImage: figures/rentería_Figura 1_EAP1477_MFC_B01_Doc30_Flores_IMG_017.jpg
+    label: "Figura 1"
+    bl-no: "Caja 1, img 2201"
+    caption: "Indagatoria de Pantaleón Flórez."
+    credit: "Fuente: 'Contra Pantaleón Flórez…', ff. 8r."
+    manifestId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/manifest
+    canvasId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/canvas/2201
+    zoom: true
+    annotations:
+      - input: checkbox
+        items:
+          - src: figures/transcriptions/rentería-Transcripción-01.pdf
+            label: "Figura 1 transcripción"
+            selected: true
+
+  - id: "rentería-02"
+    src: figures/rentería_Figura 2_EAP1477_MFC_B01_Doc30_Flores_IMG_018.jpg
+    printImage: figures/rentería_Figura 2_EAP1477_MFC_B01_Doc30_Flores_IMG_018.jpg
+    label: "Figura 2"
+    bl-no: "Caja 1, img 2202"
+    caption: "Indagatoria de Pantaleón Flórez."
+    credit: "Fuente: 'Contra Pantaleón Flórez…', ff. 8v."
+    manifestId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/manifest
+    canvasId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/canvas/2202
+    zoom: true
+
+  - id: "rentería-03"
+    src: figures/rentería_Figura 3_EAP1477_MFC_B01_Doc30_Flores_IMG_019.jpg
+    printImage: figures/rentería_Figura 3_EAP1477_MFC_B01_Doc30_Flores_IMG_019.jpg
+    label: "Figura 3"
+    bl-no: "Caja 1, img 2203"
+    caption: "Indagatoria de Mercedes Ibargüen."
+    credit: "Fuente: 'Contra Pantaleón Flórez…', ff. 9r."
+    manifestId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/manifest
+    canvasId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/canvas/2203
+    zoom: true
+
+  - id: "rentería-04"
+    src: figures/rentería_Figura 4_EAP1477_MFC_B01_Doc30_Flores_IMG_020.jpg
+    printImage: figures/rentería_Figura 4_EAP1477_MFC_B01_Doc30_Flores_IMG_020.jpg
+    label: "Figura 4"
+    bl-no: "Caja 1, img 2204"
+    caption: "Indagatoria de Mercedes Ibargüen."
+    credit: "Fuente: 'Contra Pantaleón Flórez…', ff. 9v."
+    manifestId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/manifest
+    canvasId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/canvas/2204
+    zoom: true
+
+  - id: "rentería-05"
+    src: figures/rentería_Figura 5_EAP1477_MFC_B01_Doc30_Flores_IMG_023.jpg
+    printImage: figures/rentería_Figura 5_EAP1477_MFC_B01_Doc30_Flores_IMG_023.jpg
+    label: "Figura 5"
+    bl-no: "Caja 1, img 2207"
+    caption: "Acta de matrimonio de Pantaleón y Mercedes."
+    credit: "Fuente: 'Contra Pantaleón Flórez…', f. 11r."
+    manifestId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/manifest
+    canvasId: https://eap.bl.uk/archive-file/EAP1477-1-1-1/canvas/2207
+    zoom: true
+
+  - id: "rentería-05-trans"
+    src: figures/transcriptions/rentería-Transcripción-05.pdf
+    printImage: figures/transcriptions/rentería-Transcripción-05.pdf
+    label: "Figura 5 transcripción"
+    bl-no: "Caja 1, img 2207"
+    caption: "Acta de matrimonio de Pantaleón y Mercedes."
+    credit: "Fuente: 'Contra Pantaleón Flórez…', f. 11r."
+    zoom: true    
+
+  - id: "rodríguez-01"
+    src: figures/rodríguez_Figura 1_EAP1477_MFC_B03_Doc24_UribevsMontoya_IMG_011.jpg
+    label: "Figura 1"
+    caption: "Cartel Intendencia Nacional del Chocó."
+    credit: "Fuente: 'Cristóbal Uribe contra Carlos Montoya por juicio sobre la mina El Cóndor', San Antonio de Chamí, 1911. Archivo Histórico del Juzgado del Circuito de Istmina, Istmina, Fondo Minería y Familia, Caja 3, doc. 24, f. 4r."
+
+  - id: "rodríguez-02"
+    src: figures/rodríguez_Figura 2_EAP1477_MFC_B03_Doc24_UribevsMontoya_IMG_023.jpg
+    label: "Figura 2"
+    caption: "Denuncios de minas El Cóndor y El Porvenir."
+    credit: "Fuente: _La Gaceta de la Intendencia_ (Quibdó) 28 de abril de 1911. En: 'Cristóbal Uribe contra Carlos Montoya…', f. 10r."
+
+  - id: "rodríguez-03"
+    src: figures/rodríguez_Figura 3_EAP1477_MFC_B03_Doc24_UribevsMontoya_IMG_024.jpg
+    label: "Figura 3"
+    caption: "Relación de los títulos de minas expedidos por la Intendencia Nacional del Chocó en 1911."
+    credit: "Fuente: _La Gaceta de la Intendencia_ (Quibdó) 28 de abril de 1911. En: 'Cristóbal Uribe contra Carlos Montoya…', f. 10v."
+
   - id: "lange"
     src: figures/lange.jpg
     caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
