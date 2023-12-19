@@ -13,8 +13,8 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Escritos Istmina
+subtitle: Un proyecto de Fundación Muntú Bantú
 reading_line:
 short_title:
 
@@ -47,7 +47,7 @@ contributor_as_it_appears:
 
 contributor:
   - id: jkeller
-    type: primary
+    type: secondary
     first_name: Judith
     last_name: Keller
     title: Senior Curator of Photographs
@@ -55,6 +55,56 @@ contributor:
     bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
     url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
     image: contributors/judith-keller.jpg
+
+  - id: ntcastañeda
+    type: secondary
+    first_name: Nallely
+    last_name: Taborda Castañeda
+    title: Archivista
+    affiliation: Fundación Muntú Bantú
+    bio: "Nallely Taborda Castañeda es licenciada en Ciencias Sociales por la Universidad Tecnológica del Chocó Diego Luis Córdoba, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    url: 
+    image:
+
+  - id: ypcuesta
+    type: secondary
+    first_name: Yusleyda
+    last_name: Perea Cuesta
+    title: Archivista
+    affiliation: Fundación Muntú Bantú
+    bio: "Yusleyda Perea Cuesta es estudiante de Trabajo Social de la Universidad Tecnológica del Chocó Diego Luis Córdoba, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    url:
+    image:
+
+  - id: jhibargüen
+    type: secondary
+    first_name: Javier
+    last_name: Hurtado Ibargüen
+    title: Archivista
+    affiliation: Fundación Muntú Bantú
+    bio: "Javier Hurtado Ibargüen es psicólogo por la Fundación Universitaria Claretiana, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    url:
+    image:
+
+  - id: elrentería
+    type: secondary
+    first_name: Ernestina
+    last_name: Lemos Rentería
+    title: Archivista
+    affiliation: Fundación Muntú Bantú
+    bio: "Ernestina Lemos Rentería es licenciada en Ciencias Sociales por la Universidad Tecnológica del Chocó Diego Luis Córdoba; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    url:
+    image:
+
+  - id: jlrrodríguez
+    type: secondary
+    first_name: Jhon Leison
+    last_name: Rivas Rodríguez
+    title: Archivista
+    affiliation: Fundación Muntú Bantú
+    bio: "Jhon Leison Rivas Rodríguez es licenciado en Inglés y Francés por la Universidad Tecnológica del Chocó Diego Luis Córdoba, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    url:
+    image:
 
 # ------------------------------------------------------------------------------
 # Copright & License

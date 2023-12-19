@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Colaboradores
 layout: page
 order: 501
 ---
