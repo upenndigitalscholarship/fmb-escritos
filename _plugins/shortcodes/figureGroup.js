@@ -12,8 +12,9 @@ const logger = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 module.exports = function (eleventyConfig, { page }) {
+  const figureCaption = eleventyConfig.getFilter('figureCaption')
 
-  return async function (columns, ids=[]) {
+  return async function (columns, ids=[], caption, classes) {
     columns = parseInt(columns)
 
     /**
@@ -45,9 +46,18 @@ module.exports = function (eleventyConfig, { page }) {
       figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
     }
 
+    // the following lines add the option to make a single caption for a figure group. implement like so: {% figuregroup '1' 'fig-1-7-a, fig-1-7-b' 'Figure 1.7 Two separate studies showing that below 0.5–1.0 air exchanges per day,
+    // the air concentration of internally generated volatile pollution soars. (a) Large-volume display cases (Thickett et al. 2007). (b) Various narrow painting frames and cases (Grøntoft et al. 2011). See Hackney 2016. Image: Stephen
+    // Hackney' 'pdf-float-top pdf-1-column-group' %}
+
+    const captionElement = caption ? figureCaption({ caption }) : ''
+
+    const customClasses = classes ? classes : ''
+
     return oneLine`
-      <figure class="q-figure q-figure--group">
+      <figure class="q-figure q-figure--group ${customClasses}">
         ${figureTags.join('\n')}
+        ${captionElement}
       </figure>
     `
   }
