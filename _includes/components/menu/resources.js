@@ -1,3 +1,5 @@
+//CUSTOMIZED - changed text to Spanish
+
 const { html } = require('~lib/common-tags')
 
 /**
@@ -30,7 +32,7 @@ module.exports = function(eleventyConfig) {
     const otherFormatElement = otherFormats.length
       ? html`
         <div class="quire-menu__formats">
-          <h6>Other Formats</h6>
+          <h6>Otros formatos</h6>
           <div role="complementary" aria-label="downloads">
             ${linkList({ links: otherFormats, classes: ['menu-list'] })}
           </div>

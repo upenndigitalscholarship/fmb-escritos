@@ -1,3 +1,5 @@
+//CUSTOMIZED - changed text to Spanish
+
 const { html } = require('~lib/common-tags')
 
 /**
@@ -36,14 +38,14 @@ module.exports = function(eleventyConfig) {
       >
         ${menuHeader({ currentURL: pageData.url })}
         <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
-          <h3 class="visually-hidden">Table of Contents</h3>
+          <h3 class="visually-hidden">Tabla de contenidos</h3>
           ${menuList({ currentURL: pageData.url, navigation: eleventyNavigation(collections.menu) })}
         </nav>
 
         ${menuResources()}
 
         <div class="quire-menu__formats">
-          <h6>Cite this Page</h6>
+          <h6>Cita esta página</h6>
           <div class="cite-this">
             <span class="cite-this__heading">
               Chicago

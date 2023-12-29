@@ -70,7 +70,7 @@ module.exports = (eleventyConfig) => {
      * Locale of the generated manifest
      * @type {String}
      */
-    locale: 'en',
+    locale: 'es',
     /**
      * File name for the generated manifest
      * @type {String}

@@ -1,3 +1,5 @@
+//CUSTOMIZED - changed text to Spanish
+
 const chalkFactory = require('~lib/chalk')
 const Processor = require('simple-cite')
 
@@ -9,7 +11,7 @@ const defaultStyles = {
 }
 
 module.exports = function(options={}) {
-  const locale = require(options.locale || 'locale-en-us')
+  const locale = require(options.locale || 'locale-es-es')
   const styles = Object.assign(defaultStyles, options.styles)
 
   return function(item, params) {
@@ -30,7 +32,7 @@ module.exports = function(options={}) {
     processor.cite({ citationItems: [{ id: item.id }] })
     const citation = processor.bibliography().value
     return type === 'mla'
-      ? `${citation.replace(/\s+$/, '')} Accessed <span class="cite-current-date">DD Mon. YYYY</span>.`
+      ? `${citation.replace(/\s+$/, '')} Consultado <span class="cite-current-date">DD Mon. YYYY</span>.`
       : citation
   }
 }

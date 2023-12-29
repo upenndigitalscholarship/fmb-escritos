@@ -149,7 +149,7 @@ module.exports = function(eleventyConfig) {
   /**
    * Load additional plugins used for Quire projects
    */
-  eleventyConfig.addPlugin(citationsPlugin)
+  eleventyConfig.addPlugin(citationsPlugin, { locale: 'locale-es-es' })
   eleventyConfig.addPlugin(navigationPlugin)
   eleventyConfig.addPlugin(searchPlugin, collections)
   eleventyConfig.addPlugin(syntaxHighlightPlugin)

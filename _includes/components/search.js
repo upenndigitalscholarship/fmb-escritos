@@ -1,3 +1,5 @@
+//CUSTOMIZED - changed text to Spanish
+
 const { html } = require('~lib/common-tags')
 
 /**
@@ -41,7 +43,7 @@ module.exports = function(eleventyConfig) {
                   id="js-search-input"
                   name="search"
                   oninput="search()"
-                  placeholder="Search this publication"
+                  placeholder="Buscar esta publicación"
                   type="search"
                   value=""
                 />

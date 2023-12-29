@@ -1,3 +1,5 @@
+//CUSTOMIZED - changed text to Spanish
+
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
 
@@ -43,7 +45,7 @@ module.exports = function(eleventyConfig) {
       return `
         <li class="quire-navbar-page-controls__item quire-home-page">
           <a href="${secondPageLink}" rel="next">
-            <span class="visually-hidden">Next Page: </span>
+            <span class="visually-hidden">Página siguiente: </span>
             <span class="quire-navbar-button play-button">
               <svg data-outputs-exclude="epub,pdf">
                 <switch>
@@ -63,7 +65,7 @@ module.exports = function(eleventyConfig) {
       return html`
         <li class="quire-navbar-page-controls__item quire-previous-page">
           <a href="${url}" rel="previous">
-            <span class="visually-hidden">Previous Page: </span>
+            <span class="visually-hidden">Página anterior: </span>
             <svg class="left-icon" data-outputs-exclude="epub,pdf">
               <switch>
                 <use xlink:href="#left-arrow-icon"></use>
@@ -80,7 +82,7 @@ module.exports = function(eleventyConfig) {
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
           <a href="${home}" rel="home">
-            <span class="visually-hidden">Home Page: </span>
+            <span class="visually-hidden">Página inicial: </span>
             <span class="quire-navbar-button home-button">
               <svg data-outputs-exclude="epub,pdf">
                 <switch>
@@ -100,7 +102,7 @@ module.exports = function(eleventyConfig) {
       return html`
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
-            <span class="visually-hidden">Next Page: </span>
+            <span class="visually-hidden">Página siguiente: </span>
             ${navBarLabel({ label, short_title, title })}
             <svg data-outputs-exclude="epub,pdf">
               <switch>
@@ -154,7 +156,7 @@ module.exports = function(eleventyConfig) {
                   <use xlink:href="#nav-icon"></use>
                 </switch>
               </svg>
-              <span class="visually-hidden">Table of Contents</span>
+              <span class="visually-hidden">Tabla de contenidos</span>
             </button>
           </div>
         </nav>

@@ -24,7 +24,7 @@
       "output": ".jpg"
     }
   ],
-  "locale": "en",
+  "locale": "es",
   "manifestFileName": "manifest.json",
   "tilesDirName": "tiles",
   "tileSize": 256,

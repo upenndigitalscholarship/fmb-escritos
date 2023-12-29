@@ -1,3 +1,5 @@
+//CUSTOMIZED - changed text to Spanish
+
 const { oneLine } = require('~lib/common-tags')
 
 module.exports = function(eleventyConfig) {
@@ -14,22 +16,22 @@ module.exports = function(eleventyConfig) {
 
     if (license.scope == 'some-exceptions') {
       licenseText += `
-        Unless otherwise indicated, this work is licensed under a ${licenseName}.
+        Excepto donde se indique lo contrario, este obra tiene licencia ${licenseName}.
       `
     } else if (license.scope === 'text-only') {
       licenseText += `
-        The text of this work is licensed under a ${licenseName}. Unless otherwise indicated, all illustrations are excluded from the ${licenseAbbreviation} license.
+        El texto de esta obra tiene licencia ${licenseName}. Excepto donde se indique lo contrario, todas las ilustraciones están excluidas de la ${licenseAbbreviation} licencia.
       `
     } else {
       licenseText += `
-        This work is licensed under a ${licenseName}.
+        Este obra tiene licencia ${licenseName}.
       `
     }
 
     return oneLine`
       ${licenseText}
       <span class="is-print-only">
-        To view a copy of this license visit ${license.url}.
+        Para ver una copia de esta licencia, visite ${license.url}.
       </span>
     `
   }
