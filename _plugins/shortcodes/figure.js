@@ -25,6 +25,7 @@ module.exports = function (eleventyConfig) {
   const figureLabel = eleventyConfig.getFilter('figureLabel')
   const figureModalLink = eleventyConfig.getFilter('figureModalLink')
   const figureTable = eleventyConfig.getFilter('figureTable')
+  const figureTranscription = eleventyConfig.getFilter('figureTranscription')
   const figureVideo = eleventyConfig.getFilter('figureVideo')
   const getFigure = eleventyConfig.getFilter('getFigure')
   const slugify = eleventyConfig.getFilter('slugify')
@@ -56,6 +57,8 @@ module.exports = function (eleventyConfig) {
         case mediaType === 'vimeo':
         case mediaType === 'youtube':
           return figureVideo(figure)
+        case mediaType === 'transcription':
+          return figureTranscription(figure)
         default:
           return await figureImage(figure)
       }

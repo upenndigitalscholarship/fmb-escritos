@@ -41,13 +41,13 @@ figures:
 licenseIcons: true
 
 localization:
-  defaultLocale: en-us
+  defaultLocale: es
 
 menuType: full # full | brief
 
 navigation:
-  nextButtonText: Next
-  prevButtonText: Back
+  nextButtonText: Siguiente
+  prevButtonText: Anterior
 
 pageTitle:
   labelDivider: '. '
