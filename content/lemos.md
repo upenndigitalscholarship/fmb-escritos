@@ -8,7 +8,7 @@ order: 32
 classes:
   - page-one
 contributor:
-  - id: elrentería
+  - id: elemos
 abstract: |
   An abstract can go here.
 ---
@@ -23,21 +23,23 @@ Los procesos judiciales pretenden resolver el conflicto surgido como consecuenci
 
 > al ser evidente lo que se me sindica lo he hecho creído a que esto no sea un delito castigable por la ley; y tan así lo he creído porque desde que tengo uso de la razón he presenciado que esos hombres que se llaman dignos y que ocupan cierto puesto social han vivido y viven escandalizando también la sociedad; y también han sido y son empleados de mucha más categoría que el empleo que a mí se me ha confiado en los años 90, 91 y 92 y como vi y he visto creí gozar de ésta misma prerrogativa que han tenido los demás a los cuales ha amparado la ley; pero ahora que se me ha hecho sabido de que la ley ya castiga esto que dicen llama delito, haré yo ahora lo mismo que hizo el promotor de este denuncio contraer también, ahora que estamos en tiempo de misiones, matrimonio con mi respectiva concubina […] Como cuando estuvo el fraile Ponte, contrajo el señor A. M. (mi denunciante), con J. Molina (su concubina).[^4]
 
-{% figuregroup '2', 'rentería-01, rentería-02' %}
+{% figuregroup '2', 'lemos-01, lemos-02' %}
 
 Por su parte, Mercedes Ibargüen reconoció que
 
 > sin ser todavía casada vivo bajo un mismo techo con el señor Pantaleón Flórez […] hace poco más o menos sus tres años que vivimos juntos, gozando poco más o menos los mismos placeres del himeneo, pues solo nos resta elevar a sacramento nuestra voluntaria y afectuosa unión, que es lo que viene a constituir el verdadero matrimonio y la verdadera felicidad en el amor. Hemos procreado durante ese lapso de tiempo como fruto de nuestro amor dos hijos, que sobreviven […] Por lo expuesto es de por demás aclarar que yo soy la cómplice, como célibe en el hecho que se averigua. También acuciosamente en estas diligencias sumarias, que por bajas y rastreras venganzas del señor A. M., se sigue contra nosotros especialmente.[^5]
 
-{% figuregroup '2', 'rentería-03, rentería-04' %}
+{% figuregroup '2', 'lemos-03, lemos-04' %}
 
 Decidí incluir los testimonios de Mercedes y Pantaleón porque considero que es importante que el lector pueda percibir la realidad de la forma en la que ellos la veían, es decir, sin alterar nada de lo que ambos testificaron hace más de cien años. Sus palabras dan a entender muchas cosas, al punto que se podría especular alrededor de algunos detalles que no están consignados en el expediente. Es evidente que ellos se querían, incluso podría decir, sin temor a equivocarme, que se amaban.
 
 Después de escuchar a varios testigos y a los implicados el juez encontró que efectivamente Pantaleón y Mercedes estaban amancebados. Sin embargo, ese mismo año ellos contrajeron matrimonio. En el expediente se incluyó como evidencia el acta de matrimonio, dándonos a entender que la pareja se casó como era esperado. Por su parte, tampoco se comprobaron los otros cargos por los que se denunció a Flórez.
 
-{% figure 'rentería-05' %}
+{% figure 'lemos-05' %}
 
-{% figuregroup '2', 'rentería-05, rentería-05-trans' %}
+[comment]: # % figure 'lemos-05-trans-table' %
+
+[comment]: # % figure 'lemos-05-trans' %
 
 En Colombia el amancebamiento comenzó a ser considerado un delito en la década de 1890, con la aparición del nuevo código penal que se desprendió de la Constitución Política de 1886. Se podría decir que era un delito completamente nuevo en aquel entonces. Los acusados usualmente tomaban esto como excusa, pues al no conocer el delito era difícil saber que se estaba infringiendo la ley. No obstante, es poco entendible que un juez en aquella época, que se supone debía tener conocimiento de las leyes, hiciera caso omiso de ellas. Durante todo el expediente se recalcó el hecho de que era de público conocimiento que Mercedes y Pantaleón vivían de forma ilícita a los ojos de la sociedad de entonces, y es ahí donde surge el siguiente interrogante: ¿por qué no casarse antes de llegar a una denuncia? Si tenían dos hijos era evidente que la relación tenía tiempo de estar consolidada. Al parecer, Pantaleón era un ser humano con fallas y errores propios de su condición mortal.
 

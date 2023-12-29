@@ -4,11 +4,11 @@ title: Polonia Díaz contra su hermana Jerónima Díaz por el delito de heridas
 short_title: Díaz vs. Díaz
 subtitle: 
 layout: essay
-order: 35
+order: 31
 classes:
   - page-one
 contributor:
-  - id: ntcastañeda
+  - id: ntaborda
 abstract: |
   An abstract can go here.
 ---
@@ -22,7 +22,7 @@ En el proceso en contra de Jerónima Díaz fueron nombrados Joaquín Urrutia y J
 
 En las declaraciones no queda claro el motivo del enfrentamiento entre Polonia y Jerónima. Se decía que por envidia. ¿Envidia a qué o por quién? Aunque no se supo con certeza, se puede hacer un pequeño análisis tras revisar los testimonios de lo sucedido. Según Polonia, "el 24 de enero me encontraba en casa de mi papá Serafín en el punto de Valerio, quebrando paja; serían las 4 de la tarde cuando empezó a dirigirme ademanes de desprecio mi hermana Jerónima, y aunque nada le dije, solo le ordené que botara la basura que yo había hecho con la paja, entonces me gargajeó ella, en vez de hacer lo que yo le ordené". Según afirmaba, Jerónima siguió la discusión y le dijo que no valía nada. "Al oír esto tomé el palo de la escoba y le di con él, ella tomó un machete y se me vino encima con él y me dio causándome las dos heridas del brazo, yo me dirigí debajo de la casa y ella persiguiéndome por detrás y me causó la herida que tengo en el lomo izquierdo con el mismo machete".[^3] A Polonia se le preguntó si había tenido un disgusto con su hermana Jerónima a lo que contestó que sí, "porque esta vive con mi compañero". Pero no dice más sobre ese compañero, quién era, si presenció la riña, poco se sabe porque no vuelve a ser mencionado. Lo que deja entrever esta declaración es que entre las hermanas existía un problema de celos, reales o infundados, porque al parecer Jerónima le estaba quitando el marido a su hermana Polonia.
 
-{% figuregroup '2', 'castañeda-01, castañeda-02' %}
+{% figuregroup '2', 'taborda-01, taborda-02' %}
 
 Uno de los testigos confirmó lo sucedido. Justo Pastor Arboleda aseguró que "le dije a Demetrio Díaz que fuéramos a arrancar unas matas de barbasco allí cerca de la casa y al efecto me dispuse a salir de la posada con dirección al barbasco, cuando me dijo Polonia que le botara una basura a lo que le contesté que no estaba yo para hacer eso […] y bajé, entonces ella me arrojó la basura sobre el pescuezo y le dije que se enfriara y seguí mi destino".[^4] Pero ella se quedó furiosa, insultándolo, luego la emprendió contra Jerónima y cuando esta le contestó se le fue encima con un palo.
 
@@ -32,13 +32,13 @@ En las grandes familias solía dársele a los hermanos mayores un rol de mando s
 
 En la indagatoria, Jerónima Díaz dijo que era mayor de 14 años, soltera y agricultora. Aseguró no haber tenido disgustos con su hermana hasta el 24 de enero cuando Polonia le buscó pleito. Además, declaró: "Yo estaba ese día en casa de mi padre Serafín Díaz sin meterme con ella, cuando estando ella barriendo la casa y yo sentada, ella principió a decirme que yo era una puta, vagabunda, badulaque, y muchas cosas peores que no recuerdo […] Se me fue encima y me dio con el palo de la escoba que estaba barriendo, golpeándome fuertemente en la cabeza […] Yo por quitarme de los golpes de ella, tomé una puya (machete) […] y resultó herida, pero sin ser intencional, sino que ella lo causó, pues como no podía defenderme de los golpes metí la puya para quitarme de ellos y ese el motivo de las heridas de mi hermana".[^7]
 
-{% figuregroup '2', 'castañeda-03, castañeda-04' %}
+{% figuregroup '2', 'taborda-03, taborda-04' %}
 
 Durante el proceso se les preguntó a las hermanas quién había sido la autora del delito y respondieron que las dos eran responsables. Por esa razón se les asignó defensores de oficio: a Polonia, Arístides Abadía, y a Jerónima, Teodolindo Becerra. En vista de que ambas asumieron la culpa y ante la gravedad de las heridas fueron condenadas a pagar una pena de cárcel en el Circuito de Istmina. Polonia fue sentenciada a tres meses y Jerónima, a dos.
 
 En el sumario quedó consignado que Polonia Díaz tenía celos de su hermana Jerónima. Por eso antes de emitir su sentencia el juez segundo del Circuito de Istmina, Francisco Bernat, aseguró que "si como se ha dicho ninguna prueba se adujo por la defensa que favoreciera la situación de las reas; no obstante, el juzgado teniendo en cuenta el sexo y condición de las acusadas y el móvil funesto que las arrastró hasta la comisión de un delito que aparece fue el de _la pasión emponzoñada de los celos_; por esta razón parece correcto y justiciero el calificativo en tercer grado de la delincuencia".[^8]
 
-{% figure 'castañeda-05' %}
+{% figure 'taborda-05' %}
 
 Las hermanas Díaz también fueron condenadas a perder sus derechos políticos, sentencia que fue apelada por los defensores. Si bien el Tribunal Superior de Cali tras de revisar los argumentos de la defensa confirmó la pena de prisión, concluyó que era desacertado condenar a Jerónima y Polonia a perder sus derechos políticos, "toda vez que las mujeres no gozan de ellos en Colombia".[^9] Es así como un malentendido entre dos hermanas en la casa de su padre, donde había armas, terminó ocasionando heridas por las que ambas terminaron en la cárcel.
 

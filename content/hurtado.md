@@ -4,18 +4,18 @@ title: Contra Manuel Lemus y Natividad Mosquera por el delito de amancebamiento 
 short_title: Valencia vs. Lemus
 subtitle: 
 layout: essay
-order: 31
+order: 33
 classes:
   - page-one
 contributor:
-  - id: jhibargüen
+  - id: jhurtado
 abstract: |
   An abstract can go here.
 ---
 
 El 14 de octubre de 1914, en el Tribunal Superior del Distrito Judicial de Cali, el abogado Joaquín de Caicedo C. inició la defensa de dos personas que tiempo atrás habían sido amantes. Se trataba de Manuel Lemus y Natividad Mosquera, quienes fueron denunciados el 9 de octubre de 1913 en Nóvita, Chocó, por el delito de amancebamiento.[^1] Aunque la acusación se tradujo en una condena para ambos en aquella población chocoana, afortunadamente para ellos, el caso escaló a segunda instancia. En las cortes del Valle del Cauca, además de buscar la absolución de Lemus y Mosquera, tuvo lugar un debate sobre el amancebamiento y la penalidad de este como delito.
 
-{% figure 'ibargüen-01' %}
+{% figure 'hurtado-01' %}
 
 En Chocó, a principios del siglo XX, las denuncias por amancebamiento eran innumerables y en muchos casos absurdas. Sin embargo, así estaba estipulado en las leyes colombianas, quizá debido a la fuerte influencia de la religión católica en los asuntos de Estado. Por esta razón, además de infringir la ley, era considerado como un agravio contra Dios, sus mandamientos y sacramentos.
 
@@ -27,7 +27,7 @@ Todos los alegatos, declaraciones y las mismas confesiones de los sindicados que
 
 Al continuar con su alegato, el abogado expresó: "donde no hay público, no puede haber publicidad; y donde hay soledad y pobreza […] no puede haber _ostentación_".[^7] Por último, agregó que si el juez se regía por el criterio católico, apostólico y romano declararía como amancebamiento todo tipo de relación.
 
-{% figure 'ibargüen-02' %}
+{% figure 'hurtado-02' %}
 
 Estos argumentos estaban cargados de una imagen deplorable de la población chocoana y perpetuaban un sentido racista que solo era capaz de crear imágenes y paisajes tristes, lamentables y penosos de la población negra del Chocó. Un racismo que estaba arraigado en la sociedad colombiana producto del sometimiento que sufrió la población negra durante la esclavitud, y que estaba naturalizado en todas las instituciones públicas y privadas, y que aún sigue vivo.
 
@@ -47,7 +47,7 @@ Estas fueron las consideraciones que dio en su momento el Tribunal Superior de C
 
 > 3. Que en cuanto a las relaciones ilícitas, los testigos señalan como prueba de ellas el hecho de que los sindicados tuvieron un hijo y sobre este hecho no hay más prueba que la confesión de la procesada, la cual no es completa, como no puede serla ninguna en cuanto se refiera a la paternidad; sobre la cual solo ha establecido la ley la presunción que nace del matrimonio cuando los cónyuges viven juntos; fuera de esta habría que probar el aislamiento en que un hombre y una mujer hubieran vivido juntos durante el tiempo en que debió tener lugar la concepción.[^13]
 
-{% figure 'ibargüen-03' %}
+{% figure 'hurtado-03' %}
 
 La Corte con su sentencia dejó sentado dos debates. En primer lugar, instaba a reflexionar sobre la penalidad del amancebamiento como delito en Colombia ya que, al parecer, a muchos jueces les resultaba incomprensible, irrisorio e inconcebible que se siguiera condenando a tantas personas por una ley que fácilmente se podía malinterpretar. En segundo lugar, con respecto a la paternidad, pues el doctor González al afirmar que no había "más prueba que la confesión de la procesada, la cual no es completa, como no puede serla ninguna a la que se refiera a la paternidad", ponía en duda no solo la palabra de Natividad sino de todas las mujeres en casos donde se buscara establecer la paternidad de niños nacidos fuera del matrimonio.
 

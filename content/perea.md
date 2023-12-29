@@ -4,11 +4,11 @@ title: La Hacienda Pública contra José Alcides Asprilla R. y Tomás Salazar po
 short_title: La Hacienda Pública vs. Asprilla y Salazar
 subtitle: 
 layout: essay
-order: 33
+order: 35
 classes:
   - page-one
 contributor:
-  - id: ypcuesta
+  - id: yperea
 abstract: |
   An abstract can go here.
 ---
@@ -16,7 +16,7 @@ abstract: |
 
 En el año 1920 fui detenido por las autoridades de la ciudad de Istmina sindicado de un delito que desconocía haber cometido.[^1] Pero antes de relatar lo que me sucedió, quiero comentarles un poco sobre mí… Soy mayor de edad, casado, tengo dos hijos, soy vecino de esta ciudad, y me desempeñaba como comerciante y comisionista. Tenía negocios en Tadó e Istmina que han beneficiado a gran parte de la población chocoana. Le brindaba a las personas la facilidad de obtener mercancías de muy buena calidad, como queso, manteca, azúcar, sal, arroz, carnes, galletas, marranos e incluso escopetas y revólveres, entre otros productos.
 
-{% figure 'cuesta-01' %}
+{% figure 'perea-01' %}
 
 Para continuar contándoles sobre el delito del cual me acusan, quiero comentarles que me culpan de estar implicado como cómplice en un acto de fraude y malversación de caudales públicos contra la Hacienda Pública del Distrito de Istmina. En el fraude también están involucrados Rudecindo Moreno, mayor de edad, y Tomás Salazar, mayor de 21 años, ambos son administradores de algunos de mis negocios.
 
@@ -50,7 +50,7 @@ Para que entiendan un poco por qué me confié del trato hecho con los hermanos 
 
 Entre los negocios que manejaban los hermanos Rumié se encontraban la compra y venta de mercancías que otros importaban, el desempeño de comisiones comerciales, la compra y venta o exportación de metales, negocios de letras de cambio, de pagarés o de efectos de comercio. También exportaban tagua, café y algodón. Además eran dueños del vapor Cartagena que viajaba entre esta ciudad del Caribe y Quibdó. Eran, asimismo, los principales comerciantes de platino en el Chocó. De esta forma, comprenderán por qué llevé a cabo el negocio de la venta de mis mercantiles con los hermanos Rumié.
 
-{% figure 'cuesta-02' %}
+{% figure 'perea-02' %}
 
 Tanto la presencia de los hermanos Rumié como de otras familias de origen sirio y libanés fue indispensable para el crecimiento económico del Chocó, pues contribuyó con a la aparición de pequeñas tiendas o locales ("chuzos") al darle mercancías a crédito a varios nativos que se fueron iniciando en el comercio, entre quienes me encontraba yo. Y es que quieren atribuirme un delito del que no me vería beneficiado ni mucho menos los Rumié. Pero, a su vez, pienso que deberían atribuírselo a todos los que han hecho negocios de créditos activos y pasivos con el señor Salazar, quien, por no estar sujeto a tutela, tenía y era responsable de los actos que estuvo cometiendo como negociante, y no los terceros que hemos tenido relaciones con él. Tiempo después de estar presos, Tomás pidió el traslado de su caso a Cali para una mejor revisión con la ayuda de su madre, quien viajó de Cali a Istmina para gestionar un fiador de cárcel para su hijo. Mientras tanto, yo continuaba apostanto a la justicia y a que el juez de Istmina realmente revisara mi caso. Presiento que al tratarse de un delito por malversación de bienes públicos el juez no lo ha examinado formalmente y me ha negado en reiteradas ocasiones las peticiones que le hago sobre el beneficio de excarcelación con fianza.
 
@@ -74,7 +74,7 @@ Ahora centrémonos en la narrativa de esta historia, la cual devela más cosas d
 
 Todas estas son incógnitas se generan a raíz de esta historia, pues no podemos confiar solo en la versión de José Alcides Asprilla. El caso muestra además que si bien este se vio acorralado por tantas problemáticas que tuvo que enfrentar a la vez, también se puede notar con el intento de fuga que era una persona que buscaba la forma de salir de ellas sin medir las consecuencias de sus actos.
 
-{% figure 'cuesta-03' %}
+{% figure 'perea-03' %}
 
 
 {% backmatter %}

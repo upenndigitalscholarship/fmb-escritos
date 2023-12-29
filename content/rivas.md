@@ -8,12 +8,12 @@ order: 34
 classes:
   - page-one
 contributor:
-  - id: jlrrodríguez
+  - id: jlrivas
 abstract: |
   An abstract can go here.
 ---
 
-{% figure 'rodríguez-01' %}
+{% figure 'rivas-01' %}
 
 Por medio de un cartel, la Intendencia Nacional del Chocó anunció al público la posesión de la mina denominada El Cóndor, concedida a Cristóbal Uribe, presidente de una sociedad minera de filón de oro y plata de nuevos descubrimientos. Dicha mina estaba ubicada en el corregimiento de San Antonio de Chamí, distrito de Pueblo Rico, provincia del San Juan.[^1] En dicho impreso se establecieron sus medidas: esta debía seguir las paralelas de 1,800 metros de los rectángulos hacia la Cordillera de los Andes en dirección sureste. Así se fijó el perímetro legal, sin perjuicio del derecho de alteración reservado a favor del denunciante, según el artículo 26 del Código de Minas.
 
@@ -27,11 +27,11 @@ De esta manera, vemos cómo la institución en ciertas ocasiones tenía que asum
 
 Lo más importante fue que en sus últimas declaraciones el funcionario dejó constancia del pago de los derechos fiscales. Además, agregó que se debía "dar a este denuncio el curso legal debiendo aclararse el error del señor secretario de Pueblo Rico que al tratarse de una mina de antiguo descubrimiento cita el artículo 8⁰, debiendo ser el 346 del Código de Minas, descuido que no vicia en forma alguna el curso de estas diligencias, toda vez que _la ley no reconoce nulidad de avisos de minas_".[^5] Las palabras del intendente, como se puede ver en la publicación, aclararon lo sucedido.
 
-{% figure 'rodríguez-02' %}
+{% figure 'rivas-02' %}
 
 Lo interesante es que el aviso se expuso al público para que las personas mostraran su inconformidad. En caso de ser afectados, debían apoyarse en las prescripciones legales de los artículos de Código de Minas para mostrar la legitimidad de su reclamo. De esta manera, la Intendencia, como máximo órgano administrativo, trataba de rechazar o evadir cualquier denuncio de minas que no tuviera legalidad ante dicho código. Para hacer énfasis en lo expuesto, a través de la gaceta, se trató de explicar el motivo del malentendido en torno a la mina El Cóndor. Mediante esta publicación también se pueden comprender todas las relaciones de los títulos de minas que fueron expedidos por la Intendencia Nacional del Chocó en el transcurso de 1911. Por ejemplo, en el primer trimestre, se hicieron públicos los números, las fechas y los nombres de los nuevos descubrimientos de minas, así como los corregimientos, los distritos, las provincias en que fueron descubiertas, la clase de oro y los adjudicatarios, entre otros.
 
-{% figure 'rodríguez-03' %}
+{% figure 'rivas-03' %}
 
 Los adjudicatarios eran personas a las que les eran asignados títulos de minas. En consecuencia, al ser reconocidos como los dueños de esos nuevos descubrimientos, tenían el derecho de cavar el subsuelo para extraer los metales preciosos. La información consignada en la _Gaceta de la Intendencia_ nos permite inferir que algunas de estas personas tenían relaciones con sociedades mineras o con empresas que buscaban industrializar y comercializar el oro y que, de cierta manera, mediante la creación de la Intendencia Nacional del Chocó se pretendía ejercer un mayor control sobre este ramo. Al ser un ente que administraba el otorgamiento de la propiedad era el encargado de mediar en los conflictos. Quizás esa era una de las formas en las que trató de legitimar su autoridad sobre este territorio. Durante ese periodo permitió que Chocó tuviera autonomía económica debido a la importancia de la explotación minera, especialmente de platino, metal que atrajo la atención de aventureros e inversionistas extranjeros y propició, de igual manera, el surgimiento de un grupo minoritario de comerciantes afrodescendientes que apoyó e integró una nueva clase social y política.
 

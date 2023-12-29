@@ -13,8 +13,8 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: Escritos Istmina
-subtitle: Un proyecto de Fundación Muntú Bantú
+title: Memorias vivas de un archivo muerto
+subtitle: Archivo Histórico del Juzgado del Circuito de Istmina, 1860-1930
 reading_line:
 short_title:
 
@@ -46,6 +46,58 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
+
+  - id: klópez
+    type: primary
+    role: editor
+    first_name: Kelly
+    last_name: López Roldán
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: 
+    url: 
+    image: 
+
+  - id: mfparra
+    type: secondary
+    first_name: María Fernanda
+    last_name: Parra Ramírez
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: 
+    url: 
+    image: 
+
+  - id: samosquera
+    type: secondary
+    first_name: Sergio
+    last_name: Antonio Mosquera
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: 
+    url: 
+    image:
+
+  - id: dvarela
+    type: secondary
+    first_name: Daniel
+    last_name: Varela Corredor
+    title: 
+    affiliation: University of Michigan
+    bio: 
+    url: 
+    image:
+
+  - id: afalvear
+    type: secondary
+    first_name: Ann
+    last_name: Farnsworth-Alvear
+    title: 
+    affiliation: University of Pennsylvania
+    bio: 
+    url: 
+    image:
+
   - id: jkeller
     type: secondary
     first_name: Judith
@@ -56,53 +108,53 @@ contributor:
     url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
     image: contributors/judith-keller.jpg
 
-  - id: ntcastañeda
+  - id: ntaborda
     type: secondary
     first_name: Nallely
     last_name: Taborda Castañeda
-    title: Archivista
-    affiliation: Fundación Muntú Bantú
-    bio: "Nallely Taborda Castañeda es licenciada en Ciencias Sociales por la Universidad Tecnológica del Chocó Diego Luis Córdoba, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: "Nallely Taborda Castañeda es licenciada en Ciencias Sociales por la Universidad Tecnológica del Chocó Diego Luis Córdoba e integrante del Semillero Recuperación de Archivos en Peligro de Muntú Bantú."
     url: 
     image:
 
-  - id: ypcuesta
+  - id: yperea
     type: secondary
     first_name: Yusleyda
     last_name: Perea Cuesta
-    title: Archivista
-    affiliation: Fundación Muntú Bantú
-    bio: "Yusleyda Perea Cuesta es estudiante de Trabajo Social de la Universidad Tecnológica del Chocó Diego Luis Córdoba, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: "Yusleyda Perea Cuesta es estudiante de Trabajo Social de la Universidad Tecnológica del Chocó Diego Luis Córdoba e integrante del Semillero Recuperación de Archivos en Peligro de Muntú Bantú."
     url:
     image:
 
-  - id: jhibargüen
+  - id: jhurtado
     type: secondary
     first_name: Javier
     last_name: Hurtado Ibargüen
-    title: Archivista
-    affiliation: Fundación Muntú Bantú
-    bio: "Javier Hurtado Ibargüen es psicólogo por la Fundación Universitaria Claretiana, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: "Javier Hurtado Ibargüen es psicólogo por la Fundación Universitaria Claretiana e integrante del Semillero Recuperación de Archivos en Peligro de Muntú Bantú."
     url:
     image:
 
-  - id: elrentería
+  - id: elemos
     type: secondary
     first_name: Ernestina
     last_name: Lemos Rentería
-    title: Archivista
-    affiliation: Fundación Muntú Bantú
-    bio: "Ernestina Lemos Rentería es licenciada en Ciencias Sociales por la Universidad Tecnológica del Chocó Diego Luis Córdoba; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: "Ernestina Lemos Rentería es licenciada en Ciencias Sociales por la Universidad Tecnológica del Chocó Diego Luis Córdoba e integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú."
     url:
     image:
 
-  - id: jlrrodríguez
+  - id: jlrivas
     type: secondary
     first_name: Jhon Leison
     last_name: Rivas Rodríguez
-    title: Archivista
-    affiliation: Fundación Muntú Bantú
-    bio: "Jhon Leison Rivas Rodríguez es licenciado en Inglés y Francés por la Universidad Tecnológica del Chocó Diego Luis Córdoba, Quibdó, Colombia; integrante del Semillero de Recuperación de Archivos en Peligro de Muntú Bantú. Centro de Memoria, Documentación y Materialidades Afrodiaspóricas y asistente de catalogación en el proyecto EAP1477, “Stabilising and digitising 19th- and 20th-century materials now in precarious condition at the Circuit Court of Istmina, Chocó ([https://doi.org/10.15130/EAP1477](https://doi.org/10.15130/EAP1477))”, financiado por la Biblioteca Británica, la Universidad de Pensilvania y la Universidad de Michigan."
+    title: 
+    affiliation: Muntú Bantú. Fundación Social Afrocolombiana
+    bio: "Jhon Leison Rivas Rodríguez es licenciado en Inglés y Francés por la Universidad Tecnológica del Chocó Diego Luis Córdoba e integrante del Semillero Recuperación de Archivos en Peligro de Muntú Bantú."
     url:
     image:
 
