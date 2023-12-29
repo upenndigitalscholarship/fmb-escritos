@@ -10,7 +10,7 @@ const logger = chalkFactory('Figure Video')
  * @param      {Object}  figure          The figure object
  * @param      {String}  id              The id of the figure
  * @param      {String}  mediaId         An id for a soundcloud embed
- * @param      {String}  mediaType       The type of tag video ('video', 'vimeo' or 'youtube')
+ * @param      {String}  mediaType       The type of tag audio ('soundcloud')
  *
  * @return     {String}  An embedded soundcloud player
  */

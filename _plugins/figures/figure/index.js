@@ -212,7 +212,7 @@ module.exports = class Figure {
       filename = sequenceStart ? sequenceStart : this.sequences[0].files[0]
     }
 
-    if (!this.isExternalResource && filename && this.mediaType != 'table') {
+    if (!this.isExternalResource && filename && this.mediaType != 'table' && this.mediaType !='transcription') {
       const { ext, name } = path.parse(filename)
       const format = this.iiifConfig.formats.find(({ input }) => input.includes(ext))
       return path.join('/', this.outputDir, name, `static-inline-figure-image${format.output}`)

@@ -178,7 +178,7 @@
     "MediaType": {
       "description": "Quire figure media type",
       "type": "string",
-      "enum": [ "soundcloud", "table", "video", "vimeo", "youtube" ]
+      "enum": [ "soundcloud", "table", "video", "vimeo", "youtube", "transcription" ]
     },
     "Region": {
       "description": "IIIF region, https://iiif.io/api/image/3.0/#41-region",

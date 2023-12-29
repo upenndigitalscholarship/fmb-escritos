@@ -28,6 +28,8 @@ module.exports = {
   figurePlaceholder: require('./figure/placeholder'),
   figureAudio: require('./figure/audio'),
   figureAudioElement: require('./figure/audio/element'),
+  figureTranscription: require('./figure/transcription'),
+  figureTranscriptionElement: require('./figure/transcription/element'),
   figureTable: require('./figure/table'),
   figureTableElement: require('./figure/table/element'),
   figureVideo: require('./figure/video'),

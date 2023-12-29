@@ -11,6 +11,7 @@ const logger = chalkFactory('filters:getContributor')
 module.exports = function (eleventyConfig, item) {
   if (!item) return ''
 
+
   // If contributor object is defined on the page, return it
   if (item.full_name || (item.first_name && item.last_name)) {
     return item
@@ -21,6 +22,9 @@ module.exports = function (eleventyConfig, item) {
   const contributor = publication.contributor.find(
     (contributor) => contributor.id === item.id
   )
+
+  // Add local sort_as value if one is provided
+  item.sort_as ? contributor.sort_as = item.sort_as : ''
 
   if (!contributor) {
     logger.error(`Contributor not found in 'publication.yaml.' Contributor: `, item)

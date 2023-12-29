@@ -14,6 +14,7 @@ module.exports = function(eleventyConfig) {
   const figureImageElement = eleventyConfig.getFilter('figureImageElement')
   const figureAudioElement = eleventyConfig.getFilter('figureAudioElement')
   const figureTableElement = eleventyConfig.getFilter('figureTableElement')
+  const figureTranscriptionElement = eleventyConfig.getFilter('figureTranscriptionElement')
   const figureVideoElement = eleventyConfig.getFilter('figureVideoElement')
   const markdownify = eleventyConfig.getFilter('markdownify')
 
@@ -44,6 +45,8 @@ module.exports = function(eleventyConfig) {
             return `<div class="overflow-container">${await figureTableElement(figure)}</div>`
           case isVideo:
             return figureVideoElement(figure)
+          case mediaType === 'transcription':
+            return `<div class="overflow-container">${await figureTranscriptionElement(figure)}</div>`
           case mediaType === 'image':
           default:
             return figureImageElement(figure, { preset: 'zoom', interactive: true })
