@@ -2,11 +2,16 @@
 // Quire-page.scss
 // -----------------------------------------------------------------------------
 //
+//
+// Customized: added .quire-page__footer element
+//
+//
 // Page container component
 // - .quire-page__header: Styled with Bulma hero classes by default, but the
 //     top-level <section> elemement has this class for overrides.
 // - .quire-page__content: Uses Bulma's section & container elements for layout;
 //     most styles here relate only to typography.
+// - Add .quire-page__footer
 //
 // This stylesheet also controls some of the fundamentals of print layout since
 // it governs the body text. It is possible to keep body copy columns mostly
@@ -517,6 +522,34 @@ html {
     }
   }
 }
+
+// .quire-page__footer
+.quire-page__footer {
+  background-color: $choco-blue;
+  color: background-color-text-classic($secondary-background-color);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: cover;
+  text-align: center;
+  @include animation(fadeIn 2s);
+
+  @media print {
+    background-color: transparent;
+    color: $print-text-color;
+    margin: 0 0.5in 1in;
+    @if $print-width <= 7 {
+      margin: 0 0 1in;
+    }
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: space-around;
+  }
+}
+
+
 
 // .quire-page-header
 // -----------------------------------------------------------------------------

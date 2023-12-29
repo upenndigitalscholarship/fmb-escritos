@@ -56,6 +56,12 @@ module.exports = class TableOfContents {
           </div>
           ${this.pageButtons({ pagination })}
         </div>
+      </section>
+      <section class="section quire-page__footer">
+        <ul>
+          <li><h3>This is some text that should appear at the bottom of the page.</h3></li>
+          <li><h3>Another element</h3></li>
+        </ul>
       </section>`,
       'liquid',
       data
