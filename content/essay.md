@@ -4,8 +4,8 @@ title: American Photographs
 subtitle: Evans in Middletown
 layout: essay
 order: 30
-classes:
-  - page-one
+toc: false
+menu: false
 contributor:
   - id: jkeller
 abstract: |

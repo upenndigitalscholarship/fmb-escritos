@@ -2,6 +2,8 @@
 title: Style Guide
 layout: page
 order: 502
+toc: false
+menu: false
 ---
 # Typography
 
