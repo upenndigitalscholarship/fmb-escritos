@@ -1,3 +1,5 @@
+/* CUSTOMIZED with Spanish-language span text */
+
 const { html } = require('~lib/common-tags')
 
 /**
@@ -24,14 +26,14 @@ module.exports = function(eleventyConfig) {
     const contributorContent = contributor_as_it_appears || contributors({ context: publicationContributors, format: 'string', type: 'primary' })
 
     const contributorElement = contributorContent
-      ? `<span class="visually-hidden">Contributors: </span>${contributorContent}`
+      ? `<span class="visually-hidden">Colaboradores: </span>${contributorContent}`
       : ''
 
     return html`
       <header class="quire-menu__header">
         ${homePageLinkOpenTag}
           <h4 class="quire-menu__header__title">
-            <span class="visually-hidden">Site Title: </span>
+            <span class="visually-hidden">Título del sitio: </span>
             ${siteTitle()}
           </h4>
         ${homePageLinkCloseTag}

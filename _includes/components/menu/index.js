@@ -38,7 +38,7 @@ module.exports = function(eleventyConfig) {
       >
         ${menuHeader({ currentURL: pageData.url })}
         <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
-          <h3 class="visually-hidden">Tabla de contenidos</h3>
+          <h3 class="visually-hidden">Tabla de</h3>
           ${menuList({ currentURL: pageData.url, navigation: eleventyNavigation(collections.menu) })}
         </nav>
 

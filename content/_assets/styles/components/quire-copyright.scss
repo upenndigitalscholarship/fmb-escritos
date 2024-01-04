@@ -7,7 +7,13 @@
 
 // .quire-copyright
 // -----------------------------------------------------------------------------
-.quire-copyright {
+
+.quire-copyright__mainfooter {
+  padding-top: 1em;
+  background-color: $white;
+}
+
+.quire-copyright, .quire-copyright__mainfooter {
   margin-bottom: 1em;
 
   &__icon {
@@ -31,9 +37,10 @@
       }
     }
   }
+
   .copyright__publisher-logo {
     display: inline-block;
-    height: 3em;
+    height: 4em;
     margin-bottom: 0.25em;
     margin-right: 1em;
     max-width: 100%;

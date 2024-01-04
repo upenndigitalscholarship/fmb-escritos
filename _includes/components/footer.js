@@ -1,4 +1,4 @@
-/* CUSTOMIZED by removing publisher images - instead will show up in footer.js */
+/* Created for FMB custom footer*/
 
 const path = require('path')
 const { html } = require('~lib/common-tags')
@@ -42,16 +42,17 @@ module.exports = function(eleventyConfig) {
       : copyrightLicensing()
 
     return html`
-      <div class="quire-copyright">
-        ${copyright}
-        ${config.licenseIcons && licenseIcons(license)}
-        <div class="is-screen-only">
-          ${screenText}
+    <section class="section quire-page__footer">
+        <div class="quire-copyright__mainfooter">
+            ${publisherImages}
+            <div class="is-screen-only">
+            ${screenText}
+            </div>
+            <div class="is-print-only">
+            ${printText}
+            </div>
         </div>
-        <div class="is-print-only">
-          ${printText}
-        </div>
-      </div>
+    </section>
     `
   }
 }
