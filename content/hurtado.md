@@ -11,6 +11,7 @@ contributor:
   - id: jhurtado
 abstract: |
   An abstract can go here.
+footer: true
 ---
 
 El 14 de octubre de 1914, en el Tribunal Superior del Distrito Judicial de Cali, el abogado Joaquín de Caicedo C. inició la defensa de dos personas que tiempo atrás habían sido amantes. Se trataba de Manuel Lemus y Natividad Mosquera, quienes fueron denunciados el 9 de octubre de 1913 en Nóvita, Chocó, por el delito de amancebamiento.[^1] Aunque la acusación se tradujo en una condena para ambos en aquella población chocoana, afortunadamente para ellos, el caso escaló a segunda instancia. En las cortes del Valle del Cauca, además de buscar la absolución de Lemus y Mosquera, tuvo lugar un debate sobre el amancebamiento y la penalidad de este como delito.

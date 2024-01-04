@@ -12,7 +12,8 @@ contributor:
     - id: dvarela
       sort_as: '3'  
     - id: afalvear
-      sort_as: '4'  
+      sort_as: '4'
+footer: true
 ---
 
 # I. Un archivo vivo y participativo

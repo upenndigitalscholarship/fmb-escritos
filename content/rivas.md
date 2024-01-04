@@ -11,6 +11,7 @@ contributor:
   - id: jlrivas
 abstract: |
   An abstract can go here.
+footer: true
 ---
 
 {% figure 'rivas-01' %}

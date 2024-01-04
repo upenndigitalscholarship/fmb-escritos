@@ -11,6 +11,7 @@ contributor:
   - id: elemos
 abstract: |
   An abstract can go here.
+footer: true
 ---
 
 Este caso sucedió a finales del siglo XIX en la región del San Juan, departamento del Chocó.[^1] Lo que me llevó a escribir sobre él fue la curiosidad que sentí al ver que se denunciaba a las personas por el delito de amancebamiento, un término desconocido para mí hasta que empecé a leer sobre estos procesos. Hoy en día el amancebamiento no es delito,las personas no tienen temor a ser denunciadas por vivir juntas sin estar casadas. Aunque en la actualidad el matrimonio sigue siendo importante para las personas que profesan una religión, especialmente si eres cristiano, ya que según esa doctrina es pecado vivir en fornicación y en unión libre. No se puede desconocer que quienes no pertenecen a una u otra religión también se casan, lo que evidencia que el matrimonio es un asunto social y diverso. En el siglo XIX, además de tratarse de la unión legal que dos personas establecían por voluntad, era un acto que le daba legitimidad a los hijos. Mi objetivo es entender por qué el amancebamiento llegó a ser castigado por la sociedad de la época, que lo veía y lo juzgaba como un acto inmoral.

@@ -11,6 +11,7 @@ contributor:
   - id: ntaborda
 abstract: |
   An abstract can go here.
+footer: true
 ---
 "Yo estaba ese día en casa de mi padre Serafín Díaz sin meterme con ella, cuando estando ella barriendo y yo sentada, ella principió a decirme que yo era una puta, vagabunda, badulaque y muchas cosas peores que no recuerdo".[^1] Estas fueron las palabras que pronunció Jerónima Díaz en la indagatoria que se le realizó en un proceso por heridas. El hecho se desarrolló en una casa de familia ubicada en un pequeño corregimiento llamado Valerio, Bajo Baudó. Allí tuvo lugar una fuerte disputa entre dos hermanas, Jerónima y Polonia, a eso de las cuatro de la tarde del 24 de enero de 1917. Así lo narra cada una de las implicadas y lo confirman los testigos, Amelia Rosero (madre), Demetrio Díaz (hermano), Paula Díaz y Justo Pastor Arboleda.
 

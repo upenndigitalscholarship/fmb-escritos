@@ -11,6 +11,7 @@ contributor:
   - id: yperea
 abstract: |
   An abstract can go here.
+footer: true
 ---
 ### _Mi nombre es José Alcides Asprilla R. y esta es mi historia…_
 
