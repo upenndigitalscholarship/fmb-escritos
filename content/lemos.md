@@ -5,8 +5,6 @@ short_title: Flórez
 subtitle: 
 layout: essay
 order: 32
-classes:
-  - page-one
 contributor:
   - id: elemos
 abstract: |

@@ -1,12 +1,10 @@
 ---
-label: II
+label: V
 title: La Hacienda Pública contra José Alcides Asprilla R. y Tomás Salazar por malversación de caudales públicos
 short_title: La Hacienda Pública vs. Asprilla y Salazar
 subtitle: 
 layout: essay
 order: 35
-classes:
-  - page-one
 contributor:
   - id: yperea
 abstract: |

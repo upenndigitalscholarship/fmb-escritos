@@ -1,12 +1,10 @@
 ---
-label: II
+label: IV
 title: Cristóbal Uribe contra Carlos Montoya por juicio sobre la mina El Cóndor
 short_title: Uribe vs. Montoya
 subtitle: 
 layout: essay
 order: 34
-classes:
-  - page-one
 contributor:
   - id: jlrivas
 abstract: |
