@@ -1,3 +1,5 @@
+/* CUSTOMIZED "and" to "y" for lists (Spanish). Differentiating "y" and "e" would be too complicated.*/
+
 module.exports = {
   name: 'style',
   attrs: {
@@ -768,7 +770,7 @@ module.exports = {
             },
             {
               name: 'name',
-              attrs: { form: 'short', and: 'text', delimiter: ', ' },
+              attrs: { form: 'short', y: 'text', delimiter: ', ' },
               children: [],
             },
           ],
@@ -789,7 +791,7 @@ module.exports = {
               children: [
                 {
                   name: 'name',
-                  attrs: { form: 'short', and: 'text', delimiter: ', ' },
+                  attrs: { form: 'short', y: 'text', delimiter: ', ' },
                   children: [],
                 },
                 {

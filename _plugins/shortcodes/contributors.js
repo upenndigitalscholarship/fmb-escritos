@@ -1,3 +1,6 @@
+/* CUSTOMIZED "and" to "y" for lists (Spanish). Differentiating "y" and "e" would be too complicated.*/
+
+
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
 
@@ -75,7 +78,7 @@ module.exports = function (eleventyConfig) {
         const last = contributorInitials.pop()
         const nameString =
           contributorInitials.length >= 1
-            ? contributorInitials.join(', ') + ', and ' + last
+            ? contributorInitials.join(', ') + ', y ' + last
             : last
         contributorsElement = `<span class="quire-contributor">${nameString}</span>`
         break
@@ -113,7 +116,7 @@ module.exports = function (eleventyConfig) {
         const last = contributorNames.pop()
         const namesString =
           contributorNames.length >= 1
-            ? contributorNames.join(', ') + ', and ' + last
+            ? contributorNames.join(', ') + ', y ' + last
             : last
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
