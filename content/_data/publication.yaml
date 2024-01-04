@@ -37,42 +37,42 @@ publisher:
 
   - name: Wolf Humanities Center
     location: University of Pennsylvania, Philadelphia PA
-    url:
+    url: https://wolfhumanities.upenn.edu/
     logo: logo-wolfhumanities.png
 
   - name: University of Michigan
     location: Michigan
-    url:
+    url: https://umich.edu/
     logo: logo-michigan.png
 
   - name: British Library
     location: London, UK
-    url:
+    url: https://www.bl.uk/
     logo: logo-britishlibrary.png
 
   - name: Social Sciences and Humanities Research Council
     location: Canada
-    url:
+    url: https://www.sshrc-crsh.gc.ca/
     logo: logo-sshrc.png
 
   - name: Muntú Bantú
     location: Quibdó, Colombia
-    url:
+    url: https://muntubantu.com/
     logo: logo-fmb.png
 
   - name: Dispossessions in the Americas
     location: United States
-    url:
+    url: https://www.mellon.org/grant-details/dispossessions-in-the-americas:-the-extraction-of-bodies-land-and-heritage-from-la-conquista-to-the-present-20448626/
     logo: logo-dispossessions.png
 
   - name: University of Pennsylvania
     location: Philadelphia, PA
-    url:
+    url: https://upenn.edu/
     logo: logo-penn.png
 
   - name: Penn Libraries
     location: Philadelphia, PA
-    url:
+    url: https://www.library.upenn.edu/
     logo:
 
 # ------------------------------------------------------------------------------
