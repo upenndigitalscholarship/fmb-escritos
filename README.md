@@ -1,3 +1,13 @@
+
+--- This build ---
+
+Issues are tagged with relevant categories and solutions/links included in description and comments. Editorial/publishing guidelines including GH branch naming conventions used according to Quire's [workflow recommendations](https://quire.getty.edu/resources/workflow/).
+
+
+
+
+--- From Quire ---
+
 ## Quire Eleventy
 
 The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/packages/11ty) contains configuration and modules for the [Eleventy static site generator](https://11ty.dev). This package is published to npm as [`@thegetty/quire-11ty`](https://www.npmjs.com/package/@thegetty/quire-11ty) and installed by the [`@thegetty/quire-cli`](https://www.npmjs.com/package/@thegetty/quire-cli) to build [Quire](https://quire.getty.edu) projects.
