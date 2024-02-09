@@ -4,6 +4,8 @@ _pdf/
 _site/
 _temp/
 
+package-lock.json
+
 # EleventFetch cache directory
 .cache
 

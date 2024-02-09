@@ -14,6 +14,7 @@ jobs:
       with:
         node-version: 21
     - run: npm install --global @thegetty/quire-cli
+    - run: quire info
     - run: quire build 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
