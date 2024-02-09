@@ -3,7 +3,7 @@ label: III
 title: Contra Manuel Lemus y Natividad Mosquera por el delito de amancebamiento público y escandaloso
 short_title: Valencia vs. Lemus
 subtitle: 
-layout: essay
+layout: entry
 order: 33
 contributor:
   - id: jhurtado

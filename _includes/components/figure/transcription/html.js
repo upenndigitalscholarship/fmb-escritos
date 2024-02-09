@@ -13,18 +13,18 @@ module.exports = function(eleventyConfig) {
   const figureTranscriptionElement = eleventyConfig.getFilter('figureTranscriptionElement')
 
   return async function({ caption, credit, id, label, src }) {
-    const transcription = await transcriptionElement({ src })
+    const transcription = await figureTranscriptionElement({ src })
 
     const labelElement = figureLabel({ caption, id, label })
     const captionElement = figureCaption({ caption, content: labelElement, credit })
-    const transcriptionElement = figureTranscriptionElement({ id, mediaType, src })
+    const transcriptionElement = transcriptionElement({ id, mediaType, src })
 
     return html`
     <a
       class="q-figure__modal-link"
       href="#${id}"
     >
-      ${transcription}
+      ${transcriptionElement}
     </a>
     ${captionElement}
   `

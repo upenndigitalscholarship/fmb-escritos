@@ -22,7 +22,7 @@ module.exports = function(eleventyConfig) {
     const resourceElement = relatedResources.length
       ? html`
         <div class="quire-menu__formats">
-          <h6>Resources</h6>
+          <h6>Recursos</h6>
           <div role="complementary" aria-label="related resources">
             ${linkList({ links: relatedResources, classes: ['menu-list'] })}
           </div>

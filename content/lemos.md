@@ -36,9 +36,9 @@ Después de escuchar a varios testigos y a los implicados el juez encontró que 
 
 {% figure 'lemos-05' %}
 
-[comment]: # % figure 'lemos-05-trans-table' %
+{% figure 'lemos-05-trans-table' %}
 
-[comment]: # % figure 'lemos-05-trans' %
+[comment] # % figure 'lemos-05-trans' %
 
 En Colombia el amancebamiento comenzó a ser considerado un delito en la década de 1890, con la aparición del nuevo código penal que se desprendió de la Constitución Política de 1886. Se podría decir que era un delito completamente nuevo en aquel entonces. Los acusados usualmente tomaban esto como excusa, pues al no conocer el delito era difícil saber que se estaba infringiendo la ley. No obstante, es poco entendible que un juez en aquella época, que se supone debía tener conocimiento de las leyes, hiciera caso omiso de ellas. Durante todo el expediente se recalcó el hecho de que era de público conocimiento que Mercedes y Pantaleón vivían de forma ilícita a los ojos de la sociedad de entonces, y es ahí donde surge el siguiente interrogante: ¿por qué no casarse antes de llegar a una denuncia? Si tenían dos hijos era evidente que la relación tenía tiempo de estar consolidada. Al parecer, Pantaleón era un ser humano con fallas y errores propios de su condición mortal.
 
