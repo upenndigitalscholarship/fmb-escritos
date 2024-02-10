@@ -24,7 +24,7 @@
   "main": ".eleventy.js",
   "scripts": {
     "benchmark": "cross-env DEBUG=Eleventy:Benchmark* eleventy",
-    "build": "cross-env ELEVENTY_ENV=production eleventy",
+    "build": "cross-env ELEVENTY_ENV=production eleventy --pathprefix=fmb-escritos",
     "clean": "del-cli _epub _site public",
     "debug": "cross-env DEBUG=Eleventy* eleventy --dryrun",
     "dev": "cross-env ELEVENTY_ENV=development eleventy --serve",
