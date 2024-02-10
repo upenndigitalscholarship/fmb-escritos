@@ -3,7 +3,8 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - first-pages
+        - main
+        #- first-pages
 
 jobs:
   build:
