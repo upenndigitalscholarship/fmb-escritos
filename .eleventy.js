@@ -230,7 +230,6 @@ module.exports = function(eleventyConfig) {
     /**
      * @see {@link https://www.11ty.dev/docs/config/#configuration-options}
      */
-    //pathPrefix: "fmb-escritos",
     dir: {
       // ⚠️ input and output dirs are _relative_ to the `.eleventy.js` module
       input: inputDir,
@@ -261,7 +260,7 @@ module.exports = function(eleventyConfig) {
     /**
      * @see {@link https://www.11ty.dev/docs/config/#deploy-to-a-subdirectory-with-a-path-prefix}
      */
-    pathPrefix,
+    pathPrefix: "fmb-escritos",
     /**
      * All of the following template formats support universal shortcodes.
      *
