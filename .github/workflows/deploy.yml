@@ -17,6 +17,7 @@ jobs:
     - run: npm install --global @thegetty/quire-cli
     - run: quire info
     - run: quire build 
+    - run: npx eleventy --pathprefix=fmb-escritos
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
