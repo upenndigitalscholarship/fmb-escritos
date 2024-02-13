@@ -36,7 +36,7 @@ Después de escuchar a varios testigos y a los implicados el juez encontró que 
 
 {% figure 'lemos-05' %}
 
-{% figure 'lemos-05-trans-table' %}
+## {% figure 'lemos-05-trans-table' %}
 
 [comment] # % figure 'lemos-05-trans' %
 
