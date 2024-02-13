@@ -205,7 +205,7 @@ module.exports = function(eleventyConfig) {
    */
   if (process.env.ELEVENTY_ENV === 'production') eleventyConfig.addPassthroughCopy(publicDir)
   eleventyConfig.addPassthroughCopy(`${inputDir}/_assets`)
-  eleventyConfig.addPassthroughCopy({ '_includes/web-components': '_assets/javascript' })
+  eleventyConfig.addPassthroughCopy({ '_includes/web-components': 'fmb-escritos/_assets/javascript' })
 
   /**
    * Watch the following additional files for changes and rerun server
